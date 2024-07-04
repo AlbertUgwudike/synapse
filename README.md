@@ -12,6 +12,7 @@
 - Open terminal.
 - Clone this repository `$ git clone https://github.com/AlbertUgwudike/synapse.git`
 - Navigate into the project by running the command: `$ cd synapse`
-- Use finder to copy all your images and one `.cppipe` file into the `data/` folder
+- Open finder by running the command: `$ open .`
+- Copy all your images and one `.cppipe` file into the `data/` folder
 - Back in the same terminal, run the command: `$ ./synapse.zsh`
-- All done!
+- If all is good, you'll find summary spreadsheets in the `output/` folder!
