@@ -1,2 +1,6 @@
-data/*
+data/*.tif
+data/*.tiff
+data/*.cppipe
+data/inh test set
+output/*.csv
 venv
