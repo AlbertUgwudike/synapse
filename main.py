@@ -26,7 +26,7 @@ def main():
     log(f"Discovered {len(image_files)} image files!")
     log("Running CellProfiler Batch ...")
 
-    run([CP_EXEC, "-c", "-r", "-p", pipeline_file, "-o", "../output", "-i", DATA_DIR])
+    run([CP_EXEC, "-c", "-r", "-p", pipeline_file, "-o", "./output", "-i", DATA_DIR])
 
     log(f"Batch Completed!")
     log(f"Organising Data ...")
