@@ -1,4 +1,5 @@
-# Scripts to automate batch image processing using CellProfiler on MacOS
+# SYNAPSE
+#### Scripts to automate batch processing using CellProfiler
 
 ## Requirements
 - CellProfiler 4.2.6 (Please ensure its located in Applications!).
